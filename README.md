@@ -15,4 +15,4 @@ O candidato deve:
 ## Documentação
 1. [Documentação do Serviço]
 
-[Documentação do Serviço]: (./docs/v1.0/service.md)
+[Documentação do Serviço]: ./docs/v1.0/service.md

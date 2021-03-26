@@ -16,9 +16,9 @@ CRUD RESTFUL API using Node JS, Express JS, and Redis.
 Ensure you have docker and docker-compose installed in your machine
 
   1. Download the zip and create a repo in your account
-  1. `cd atlantico-qa-test`
-  1. `docker-compose up`
-  1. `curl http://localhost:3000/users`
+  1. Enter the project root folder
+  1. Run `docker-compose up`
+  1. Make a call to the API `curl http://localhost:3000/users`
 
 
 The above will get you a copy of the project up and running on your local machine for development and testing purposes.

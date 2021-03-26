@@ -5,5 +5,5 @@ Neste repositório temos um serviço que não possui nenhum tipo de teste. O can
 1. Criar testes funcionais para a API utilizando sua ferramenta de preferência. Para entender o serviço e seus endpoints basta olhar a documentação do serviço.
 1. Criar uma documentação com o processo de execução dos testes e adicionar o link aqui no README.md na seção de documentação
 
-Documentação
+## Documentação
 1. [Documentação do Serviço](./docs/v1.0/service.md)

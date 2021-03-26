@@ -10,7 +10,7 @@ O candidato deve:
     1. Criar testes unitários utilizando sua ferramenta de preferência (lembrar de salvar as dependencias de teste no `package.json`)
     1. Criar testes funcionais para a API utilizando sua ferramenta de preferência. Para entender o serviço e seus endpoints basta olhar a [Documentação do Serviço].
 
-1. Criar uma documentação com o processo de execução dos testes para que eles possam ser executados pelos avaliadores e adicionar o link aqui no README.md na seção de documentação
+1. Criar uma documentação com o processo de execução dos testes, para que possam ser executados pelos avaliadores, e adicionar o link aqui no README.md na seção de documentação
 
 ## Documentação
 1. [Documentação do Serviço]
